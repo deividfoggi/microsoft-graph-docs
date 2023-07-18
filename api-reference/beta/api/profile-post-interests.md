@@ -108,10 +108,6 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/php/create-personinterest-from-profile-php-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
-# [PowerShell](#tab/powershell)
-[!INCLUDE [sample-code](../includes/snippets/powershell/create-personinterest-from-profile-powershell-snippets.md)]
-[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
-
 # [Python](#tab/python)
 [!INCLUDE [sample-code](../includes/snippets/python/create-personinterest-from-profile-python-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
